@@ -9,6 +9,20 @@
 
 
 
+
+## v16.dev.9e8d886
+
+Updated Twitch Drops Miner to v16.dev.9e8d886
+
+Reference commit: https://github.com/fireph/TwitchDropsMiner/commit/9e8d88680f456e01d430de0f22d2e74dc3469ce7
+
+Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
+
+### Changelog
+
+- fireph/TwitchDropsMiner@46b654702d1496b693a51f486043ed073244a61c: Bump astral-sh/setup-uv from 8.3.2 to 9.0.0 (#13)
+- fireph/TwitchDropsMiner@9e8d88680f456e01d430de0f22d2e74dc3469ce7: Bump actions/setup-python from 6 to 7 (#14)
+
 ## v16.dev.090e59c
 
 Updated Twitch Drops Miner to v16.dev.090e59c
@@ -146,6 +160,20 @@ Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
 
 
 
+
+
+## v16.dev.9e8d886
+
+Updated Twitch Drops Miner to v16.dev.9e8d886
+
+Reference commit: https://github.com/fireph/TwitchDropsMiner/commit/9e8d88680f456e01d430de0f22d2e74dc3469ce7
+
+Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
+
+### Changelog
+
+- fireph/TwitchDropsMiner@46b654702d1496b693a51f486043ed073244a61c: Bump astral-sh/setup-uv from 8.3.2 to 9.0.0 (#13)
+- fireph/TwitchDropsMiner@9e8d88680f456e01d430de0f22d2e74dc3469ce7: Bump actions/setup-python from 6 to 7 (#14)
 
 ## v16.dev.090e59c
 

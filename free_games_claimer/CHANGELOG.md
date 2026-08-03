@@ -1,6 +1,11 @@
 # Changelog
 
 
+
+## v1.1.20260803-9e5222b
+
+Upstream update: v1.5: Epic login and Latest tag fix
+
 ## v1.1.20260721-3808055
 
 Upstream update: v1.4: AliExpress check-in improvements, fingerprinting & store fixes, etc.

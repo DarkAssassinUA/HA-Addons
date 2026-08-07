@@ -25,7 +25,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git status
           if [ -n "$(git status --porcelain)" ]; then
-            git add -u
+            git add -A
             git commit -m "Bump addon version due to Docker image update"
             git push
           else

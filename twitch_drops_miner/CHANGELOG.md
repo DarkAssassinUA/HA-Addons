@@ -11,6 +11,21 @@
 
 
 
+
+## v16.dev.570ef1c
+
+Updated Twitch Drops Miner to v16.dev.570ef1c
+
+Reference commit: https://github.com/fireph/TwitchDropsMiner/commit/570ef1c8aaf0504ec83f1f5e3f7b89089c7e71ec
+
+Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
+
+### Changelog
+
+- fireph/TwitchDropsMiner@65d109289874b7c8e9ef2d667a9bf9e46c51fdce: Fix Linux AppIndicator library path detection on non-multiarch distros (#1131)
+- fireph/TwitchDropsMiner@65deae489205a94cad0b8f4c8f583fcac3d3bf57: Merge remote-tracking branch 'upstream/master' into webui
+- fireph/TwitchDropsMiner@570ef1c8aaf0504ec83f1f5e3f7b89089c7e71ec: fix bad merge resolve
+
 ## v16.dev.562e760
 
 Updated Twitch Drops Miner to v16.dev.562e760
@@ -176,6 +191,21 @@ Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
 
 
 
+
+
+## v16.dev.570ef1c
+
+Updated Twitch Drops Miner to v16.dev.570ef1c
+
+Reference commit: https://github.com/fireph/TwitchDropsMiner/commit/570ef1c8aaf0504ec83f1f5e3f7b89089c7e71ec
+
+Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
+
+### Changelog
+
+- fireph/TwitchDropsMiner@65d109289874b7c8e9ef2d667a9bf9e46c51fdce: Fix Linux AppIndicator library path detection on non-multiarch distros (#1131)
+- fireph/TwitchDropsMiner@65deae489205a94cad0b8f4c8f583fcac3d3bf57: Merge remote-tracking branch 'upstream/master' into webui
+- fireph/TwitchDropsMiner@570ef1c8aaf0504ec83f1f5e3f7b89089c7e71ec: fix bad merge resolve
 
 ## v16.dev.562e760
 

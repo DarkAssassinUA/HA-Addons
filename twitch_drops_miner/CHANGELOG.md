@@ -13,6 +13,19 @@
 
 
 
+
+## v16.dev.544f790
+
+Updated Twitch Drops Miner to v16.dev.544f790
+
+Reference commit: https://github.com/fireph/TwitchDropsMiner/commit/544f790a646411c9a7ad2f84dbff9d08aa8a1a47
+
+Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
+
+### Changelog
+
+- fireph/TwitchDropsMiner@544f790a646411c9a7ad2f84dbff9d08aa8a1a47: add /health endpoint
+
 ## v16.dev.058d790
 
 Updated Twitch Drops Miner to v16.dev.058d790
@@ -206,6 +219,19 @@ Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
 
 
 
+
+
+## v16.dev.544f790
+
+Updated Twitch Drops Miner to v16.dev.544f790
+
+Reference commit: https://github.com/fireph/TwitchDropsMiner/commit/544f790a646411c9a7ad2f84dbff9d08aa8a1a47
+
+Docker image at: https://hub.docker.com/r/dungfu/twitch-drops-miner
+
+### Changelog
+
+- fireph/TwitchDropsMiner@544f790a646411c9a7ad2f84dbff9d08aa8a1a47: add /health endpoint
 
 ## v16.dev.058d790
 

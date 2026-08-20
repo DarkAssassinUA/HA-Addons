@@ -2,6 +2,11 @@
 
 
 
+
+## v1.1.20260808-1e2b38f
+
+Upstream update: v1.6: Ubisoft and Fab stores, reverse proxy VNC links
+
 ## v1.1.20260803-9e5222b
 
 Upstream update: v1.5: Epic login and Latest tag fix

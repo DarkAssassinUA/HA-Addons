@@ -1,4 +1,4 @@
-# DarkAssassinUA Home Assistant Add-ons Repository
+# Le-Maxime Home Assistant Add-ons Repository
 
 Welcome! This is a personal repository of custom Home Assistant add-ons, designed to automate gaming rewards and tasks directly on your Home Assistant server.
 
@@ -18,14 +18,14 @@ To add these addons to your Home Assistant instance:
 
 1.  Copy the URL of this repository:
     ```
-    https://github.com/DarkAssassinUA/HA-Addons
+    https://github.com/Le-Maxime/HA-Addons
     ```
 2.  In your Home Assistant interface, go to **Settings** -> **Add-ons**.
 3.  Click the **Add-on Store** button in the bottom right corner.
 4.  In the top right corner, click the three-dot menu icon and select **Repositories**.
 5.  Paste the repository URL into the field and click **Add**.
 6.  Close the dialog box and refresh the page.
-7.  Scroll down to the bottom of the store, locate the newly added **DarkAssassinUA Home Assistant Apps** section, and select the addon you wish to install.
+7.  Scroll down to the bottom of the store, locate the newly added **Le-Maxime Home Assistant Apps** section, and select the addon you wish to install.
 
 ---
 

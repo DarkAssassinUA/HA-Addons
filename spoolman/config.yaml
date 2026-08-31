@@ -1,0 +1,23 @@
+name: "Spoolman"
+description: "Keep track of your 3D printer filament spools (v0.26.1)"
+version: "0.26.1"
+slug: "spoolman"
+url: "https://github.com/Donkie/Spoolman"
+arch:
+  - aarch64
+  - amd64
+  - armv7
+  - i386
+startup: application
+boot: auto
+ports:
+  8000/tcp: 8000
+ports_description:
+  8000/tcp: "Spoolman Web UI and REST API"
+map:
+  - config:rw
+  - share:rw
+options:
+  tz: "UTC"
+schema:
+  tz: "str?"

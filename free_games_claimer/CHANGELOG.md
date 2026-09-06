@@ -3,6 +3,11 @@
 
 
 
+
+## v1.1.20260905-8b96d61
+
+Upstream update: v1.8: Verify Epic claims, fix browser start, warn on unknown settings
+
 ## v1.1.20260808-1e2b38f
 
 Upstream update: v1.6: Ubisoft and Fab stores, reverse proxy VNC links
